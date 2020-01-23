@@ -1,5 +1,3 @@
-from django.conf import settings
-from django.conf.urls.static import static
 from django.contrib import admin
 from django.urls import include, path
 from django.views.generic import RedirectView
@@ -10,8 +8,6 @@ urlpatterns = [
     path('', RedirectView.as_view(url='catalog/', permanent=True)),
 ]
 
-urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
-
-# urlpatterns += [
-#     path('catalog/', include('catalog.urls')),
-# ]
+admin.site.site_header = "Mozilla Django Tutorial Admin"
+admin.site.site_title = "Mozilla Django Tutorial Portal"
+admin.site.index_title = "Mozilla Django Tutorial Portal"
