@@ -33,10 +33,10 @@ def index(request):
 class BookListView(generic.ListView):
     model = Book
 
-    def get_queryset(self):
-        return Book.objects.filter(title__icontains="war")[
-            :5
-        ]  # Get 5 books containing the title war
+    # def get_queryset(self):
+    #     return Book.objects.[
+    #         :5
+    #     ]  # Get 5 books containing the title war
 
 
 class BookDetailView(generic.DetailView):

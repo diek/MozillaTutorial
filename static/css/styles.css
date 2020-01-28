@@ -1,9 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #393939  }
+
 body {
-  background-color: #e6dbc9;
-  color: #2e3830;
+  color: #F5F5F5;
   font-family: 'Verdana', sans-serif;
+  background: linear-gradient(to bottom, ##393939 0%, #6E6E6E 100%);
 }
 
+div.container-fluid {
+  background: linear-gradient(to bottom, ##393939 0%, #6E6E6E 100%);
+}
 .sidebar-nav {
     margin-top: 20px;
     padding: 0;

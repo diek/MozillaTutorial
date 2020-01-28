@@ -8,6 +8,10 @@ urlpatterns = [
     path('', RedirectView.as_view(url='catalog/', permanent=True)),
 ]
 
+urlpatterns += [
+    path('accounts/', include('django.contrib.auth.urls')),
+]
+
 admin.site.site_header = "Mozilla Django Tutorial Admin"
 admin.site.site_title = "Mozilla Django Tutorial Portal"
 admin.site.index_title = "Mozilla Django Tutorial Portal"
