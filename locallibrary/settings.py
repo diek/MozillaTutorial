@@ -54,6 +54,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware'
 ]
 
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
 ROOT_URLCONF = 'locallibrary.urls'
 
 TEMPLATES = [
@@ -84,6 +86,8 @@ DATABASES = {
         'NAME': join(BASE_DIR, 'locallibrary.db'),
     }
 }
+
+FIXTURE_DIRS = [join(BASE_DIR, 'catalog/fixtures')]
 
 LOGIN_REDIRECT_URL = '/'
 # Password validation

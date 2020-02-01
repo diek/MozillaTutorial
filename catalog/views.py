@@ -42,6 +42,7 @@ class BookListView(generic.ListView):
 
 class BookDetailView(generic.DetailView):
     model = Book
+    paginate_by = 20
 
 
 class LoanedBooksByUserListView(LoginRequiredMixin,generic.ListView):
@@ -52,3 +53,12 @@ class LoanedBooksByUserListView(LoginRequiredMixin,generic.ListView):
 
     def get_queryset(self):
         return BookInstance.objects.filter(borrower=self.request.user).filter(status__exact='o').order_by('due_back')
+
+
+class AuthorListView(generic.ListView):
+    model = Author
+    paginate_by = 20
+
+
+class AuthorDetailView(generic.DetailView):
+    model = Author

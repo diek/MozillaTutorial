@@ -30,3 +30,6 @@ Navigate to working folder
 
 ## Update SITE_AUTHOR  
 Goto settings.py and update SITE_AUTHOR as needed  
+
+## Credits
+The author list was mostly derived from the sample page of [Zygmunt Zając's github repo goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k/blob/master/samples/books.csv)
