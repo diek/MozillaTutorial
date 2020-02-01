@@ -1,0 +1,1266 @@
+[
+{
+  "model": "catalog.author",
+  "pk": 1,
+  "fields":
+  {
+    "first_name": "James Hadley",
+    "last_name": "Chase",
+    "date_of_birth": "1906-12-24",
+    "date_of_death": "1985-02-06"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 2,
+  "fields":
+  {
+    "first_name": "Suzanne",
+    "last_name": "Collins",
+    "date_of_birth": "1962-08-10",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 3,
+  "fields":
+  {
+    "first_name": "J.K.",
+    "last_name": "Rowling",
+    "date_of_birth": "1965-07-31",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 4,
+  "fields":
+  {
+    "first_name": "Mary",
+    "last_name": "GrandPr\u00e9",
+    "date_of_birth": "1954-02-13",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 5,
+  "fields":
+  {
+    "first_name": "Stephenie",
+    "last_name": "Meyer",
+    "date_of_birth": "1973-12-24",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 6,
+  "fields":
+  {
+    "first_name": "Harper",
+    "last_name": "Lee",
+    "date_of_birth": "1926-04-28",
+    "date_of_death": "2016-02-19"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 7,
+  "fields":
+  {
+    "first_name": "F. Scott",
+    "last_name": "Fitzgerald",
+    "date_of_birth": "1896-09-24",
+    "date_of_death": "1940-12-21"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 8,
+  "fields":
+  {
+    "first_name": "John",
+    "last_name": "Green",
+    "date_of_birth": "1977-08-24",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 9,
+  "fields":
+  {
+    "first_name": "J.R.R.",
+    "last_name": "Tolkien",
+    "date_of_birth": "1892-01-03",
+    "date_of_death": "1973-09-02"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 10,
+  "fields":
+  {
+    "first_name": "J.D.",
+    "last_name": "Salinger",
+    "date_of_birth": "1919-01-01",
+    "date_of_death": "2010-01-27"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 11,
+  "fields":
+  {
+    "first_name": "Dan",
+    "last_name": "Brown",
+    "date_of_birth": "1964-06-22",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 12,
+  "fields":
+  {
+    "first_name": "Jane",
+    "last_name": "Austen",
+    "date_of_birth": "1775-12-16",
+    "date_of_death": "1817-07-18"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 13,
+  "fields":
+  {
+    "first_name": "Khaled",
+    "last_name": "Hosseini",
+    "date_of_birth": "1965-03-04",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 14,
+  "fields":
+  {
+    "first_name": "Veronica",
+    "last_name": "Roth",
+    "date_of_birth": "1988-08-19",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 15,
+  "fields":
+  {
+    "first_name": "George",
+    "last_name": "Orwell",
+    "date_of_birth": "1903-06-25",
+    "date_of_death": "1950-01-21"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 16,
+  "fields":
+  {
+    "first_name": "Erich",
+    "last_name": "Fromm",
+    "date_of_birth": "1900-03-23",
+    "date_of_death": "1980-03-18"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 17,
+  "fields":
+  {
+    "first_name": "Cel\u00e2l",
+    "last_name": "\u00dcster",
+    "date_of_birth": "1947-01-01",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 18,
+  "fields":
+  {
+    "first_name": "Anne",
+    "last_name": "Frank",
+    "date_of_birth": "1929-06-12",
+    "date_of_death": "1945-02-01"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 19,
+  "fields":
+  {
+    "first_name": "Tom",
+    "last_name": "Clancy",
+    "date_of_birth": "1947-04-12",
+    "date_of_death": "2013-10-01"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 20,
+  "fields":
+  {
+    "first_name": "B.M.",
+    "last_name": "Mooyaart-Doubleday",
+    "date_of_birth": "1919-03-11",
+    "date_of_death": "2017-08-02"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 21,
+  "fields":
+  {
+    "first_name": "Stieg",
+    "last_name": "Larsson",
+    "date_of_birth": "1945-08-15",
+    "date_of_death": "2004-11-09"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 22,
+  "fields":
+  {
+    "first_name": "Reg",
+    "last_name": "Keeland",
+    "date_of_birth": "1943-10-07",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 23,
+  "fields":
+  {
+    "first_name": "Rufus",
+    "last_name": "Beck",
+    "date_of_birth": "1957-07-23",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 24,
+  "fields":
+  {
+    "first_name": "Alice",
+    "last_name": "Sebold",
+    "date_of_birth": "1963-09-06",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 25,
+  "fields":
+  {
+    "first_name": "William",
+    "last_name": "Golding",
+    "date_of_birth": "1911-09-19",
+    "date_of_death": "1993-06-19"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 26,
+  "fields":
+  {
+    "first_name": "William",
+    "last_name": "Shakespeare",
+    "date_of_birth": "1564-04-01",
+    "date_of_death": "1616-04-23"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 28,
+  "fields":
+  {
+    "first_name": "Gillian",
+    "last_name": "Flynn",
+    "date_of_birth": "1971-02-24",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 29,
+  "fields":
+  {
+    "first_name": "Kathryn",
+    "last_name": "Stockett",
+    "date_of_birth": "1969-02-06",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 30,
+  "fields":
+  {
+    "first_name": "John",
+    "last_name": "Steinbeck",
+    "date_of_birth": "1902-02-27",
+    "date_of_death": "1968-12-20"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 31,
+  "fields":
+  {
+    "first_name": "Arthur",
+    "last_name": "Golden",
+    "date_of_birth": "1956-12-06",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 32,
+  "fields":
+  {
+    "first_name": "E.L.",
+    "last_name": "James",
+    "date_of_birth": "1963-03-07",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 33,
+  "fields":
+  {
+    "first_name": "Paulo",
+    "last_name": "Coelho",
+    "date_of_birth": "1947-08-24",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 35,
+  "fields":
+  {
+    "first_name": "Lois",
+    "last_name": "Lowry",
+    "date_of_birth": "1937-03-20",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 36,
+  "fields":
+  {
+    "first_name": "C.S.",
+    "last_name": "Lewis",
+    "date_of_birth": "1898-11-29",
+    "date_of_death": "1963-11-22"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 37,
+  "fields":
+  {
+    "first_name": "Audrey",
+    "last_name": "Niffenegger",
+    "date_of_birth": "1963-06-13",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 38,
+  "fields":
+  {
+    "first_name": "George R.R.",
+    "last_name": "Martin",
+    "date_of_birth": "1948-09-20",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 39,
+  "fields":
+  {
+    "first_name": "Elizabeth",
+    "last_name": "Gilbert",
+    "date_of_birth": "1969-07-18",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 40,
+  "fields":
+  {
+    "first_name": "Rick",
+    "last_name": "Riordan",
+    "date_of_birth": "1964-06-05",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 41,
+  "fields":
+  {
+    "first_name": "Louisa May",
+    "last_name": "Alcott",
+    "date_of_birth": "1832-11-29",
+    "date_of_death": "1888-03-06"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 42,
+  "fields":
+  {
+    "first_name": "Charlotte",
+    "last_name": "Bront\u00eb",
+    "date_of_birth": "1816-04-21",
+    "date_of_death": "1855-03-31"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 44,
+  "fields":
+  {
+    "first_name": "Nicholas",
+    "last_name": "Sparks",
+    "date_of_birth": "1965-12-31",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 45,
+  "fields":
+  {
+    "first_name": "Yann",
+    "last_name": "Martel",
+    "date_of_birth": "1963-06-25",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 46,
+  "fields":
+  {
+    "first_name": "Sara",
+    "last_name": "Gruen",
+    "date_of_birth": "1969-01-29",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 47,
+  "fields":
+  {
+    "first_name": "Markus",
+    "last_name": "Zusak",
+    "date_of_birth": "1975-06-23",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 48,
+  "fields":
+  {
+    "first_name": "Ray",
+    "last_name": "Bradbury",
+    "date_of_birth": "1920-08-22",
+    "date_of_death": "2012-06-05"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 49,
+  "fields":
+  {
+    "first_name": "Shel",
+    "last_name": "Silverstein",
+    "date_of_birth": "1930-09-25",
+    "date_of_death": "1999-05-10"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 50,
+  "fields":
+  {
+    "first_name": "Cassandra",
+    "last_name": "Clare",
+    "date_of_birth": "1973-07-27",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 51,
+  "fields":
+  {
+    "first_name": "Christopher",
+    "last_name": "Paolini",
+    "date_of_birth": "1983-11-17",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 52,
+  "fields":
+  {
+    "first_name": "Douglas",
+    "last_name": "Adams",
+    "date_of_birth": "1952-03-11",
+    "date_of_death": "2001-05-11"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 53,
+  "fields":
+  {
+    "first_name": "Aldous",
+    "last_name": "Huxley",
+    "date_of_birth": "1894-07-26",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 54,
+  "fields":
+  {
+    "first_name": "Sue Monk",
+    "last_name": "Kidd",
+    "date_of_birth": "1948-08-12",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 55,
+  "fields":
+  {
+    "first_name": "Mark",
+    "last_name": "Twain",
+    "date_of_birth": "1835-11-30",
+    "date_of_death": "1910-04-21"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 56,
+  "fields":
+  {
+    "first_name": "John",
+    "last_name": "Seelye",
+    "date_of_birth": "1931-01-01",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 57,
+  "fields":
+  {
+    "first_name": "Guy",
+    "last_name": "Cardwell",
+    "date_of_birth": "1905-11-14",
+    "date_of_death": "2005-09-29"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 58,
+  "fields":
+  {
+    "first_name": "E.B.",
+    "last_name": "White",
+    "date_of_birth": "1899-07-11",
+    "date_of_death": "1985-10-01"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 60,
+  "fields":
+  {
+    "first_name": "Rosemary",
+    "last_name": "Wells",
+    "date_of_birth": "1943-01-29",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 61,
+  "fields":
+  {
+    "first_name": "Mark",
+    "last_name": "Haddon",
+    "date_of_birth": "1962-10-28",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 62,
+  "fields":
+  {
+    "first_name": "Paula",
+    "last_name": "Hawkins",
+    "date_of_birth": "1972-08-26",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 63,
+  "fields":
+  {
+    "first_name": "Philip",
+    "last_name": "Pullman",
+    "date_of_birth": "1946-10-19",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 64,
+  "fields":
+  {
+    "first_name": "Emily",
+    "last_name": "Bront\u00eb",
+    "date_of_birth": "1818-07-30",
+    "date_of_death": "1848-12-19"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 66,
+  "fields":
+  {
+    "first_name": "Jodi",
+    "last_name": "Picoult",
+    "date_of_birth": "1966-05-19",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 67,
+  "fields":
+  {
+    "first_name": "Kurt",
+    "last_name": "Vonnegut Jr.",
+    "date_of_birth": "1922-11-11",
+    "date_of_death": "2007-04-11"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 68,
+  "fields":
+  {
+    "first_name": "Margaret",
+    "last_name": "Mitchell",
+    "date_of_birth": "1900-11-08",
+    "date_of_death": "1949-08-16"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 69,
+  "fields":
+  {
+    "first_name": "Stephen",
+    "last_name": "Chbosky",
+    "date_of_birth": "1970-01-25",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 70,
+  "fields":
+  {
+    "first_name": "Orson Scott",
+    "last_name": "Card",
+    "date_of_birth": "1951-08-24",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 71,
+  "fields":
+  {
+    "first_name": "Mary Wollstonecraft",
+    "last_name": "Shelley",
+    "date_of_birth": "1797-08-30",
+    "date_of_death": "1851-02-01"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 72,
+  "fields":
+  {
+    "first_name": "Percy Bysshe",
+    "last_name": "Shelley",
+    "date_of_birth": "1792-08-04",
+    "date_of_death": "1822-07-08"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 73,
+  "fields":
+  {
+    "first_name": "Maurice",
+    "last_name": "Hindle",
+    "date_of_birth": "1945-05-19",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 74,
+  "fields":
+  {
+    "first_name": "Stephen",
+    "last_name": "King",
+    "date_of_birth": "1947-09-21",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 75,
+  "fields":
+  {
+    "first_name": "Helen",
+    "last_name": "Fielding",
+    "date_of_birth": "1958-02-19",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 76,
+  "fields":
+  {
+    "first_name": "Tony",
+    "last_name": "Tanner",
+    "date_of_birth": "1935-03-18",
+    "date_of_death": "1998-12-05"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 77,
+  "fields":
+  {
+    "first_name": "Ros",
+    "last_name": "Ballaster",
+    "date_of_birth": "1962-01-01",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 78,
+  "fields":
+  {
+    "first_name": "Louis",
+    "last_name": "Sachar",
+    "date_of_birth": "1954-03-20",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 79,
+  "fields":
+  {
+    "first_name": "Lauren",
+    "last_name": "Weisberger",
+    "date_of_birth": "1977-03-28",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 80,
+  "fields":
+  {
+    "first_name": "",
+    "last_name": "Homer",
+    "date_of_birth": null,
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 81,
+  "fields":
+  {
+    "first_name": "Robert",
+    "last_name": "Fagles",
+    "date_of_birth": "1933-09-11",
+    "date_of_death": "2008-03-26"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 82,
+  "fields":
+  {
+    "first_name": "E.V.",
+    "last_name": "Rieu",
+    "date_of_birth": "1887-02-10",
+    "date_of_death": "1972-05-11"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 83,
+  "fields":
+  {
+    "first_name": "Margaret",
+    "last_name": "Atwood",
+    "date_of_birth": "1939-11-18",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 84,
+  "fields":
+  {
+    "first_name": "Bernard",
+    "last_name": "Knox",
+    "date_of_birth": "1914-11-24",
+    "date_of_death": "2010-07-22"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 85,
+  "fields":
+  {
+    "first_name": "Antoine de",
+    "last_name": "Saint-Exup\u00e9ry",
+    "date_of_birth": "1900-06-29",
+    "date_of_death": "1944-07-31"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 86,
+  "fields":
+  {
+    "first_name": "Richard",
+    "last_name": "Howard",
+    "date_of_birth": "1929-10-13",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 87,
+  "fields":
+  {
+    "first_name": "Dom Marcos",
+    "last_name": "Barbosa",
+    "date_of_birth": "1915-09-12",
+    "date_of_death": "1997-03-05"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 88,
+  "fields":
+  {
+    "first_name": "Lucy Maud",
+    "last_name": "Montgomery",
+    "date_of_birth": "1874-11-30",
+    "date_of_death": "1944-04-24"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 89,
+  "fields":
+  {
+    "first_name": "Jeannette",
+    "last_name": "Walls",
+    "date_of_birth": "1960-04-21",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 90,
+  "fields":
+  {
+    "first_name": "Jon",
+    "last_name": "Krakauer",
+    "date_of_birth": "1954-04-12",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 91,
+  "fields":
+  {
+    "first_name": "Charles",
+    "last_name": "Dickens",
+    "date_of_birth": "1812-02-07",
+    "date_of_death": "1870-06-09"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 92,
+  "fields":
+  {
+    "first_name": "Alice",
+    "last_name": "Munro",
+    "date_of_birth": "1931-07-10",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 93,
+  "fields":
+  {
+    "first_name": "Hablot Knight",
+    "last_name": "Browne",
+    "date_of_birth": "1815-07-12",
+    "date_of_death": "1882-07-08"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 94,
+  "fields":
+  {
+    "first_name": "Michael",
+    "last_name": "Crichton",
+    "date_of_birth": "1942-10-23",
+    "date_of_death": "2008-11-04"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 95,
+  "fields":
+  {
+    "first_name": "John",
+    "last_name": "Grisham",
+    "date_of_birth": "1955-02-08",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 96,
+  "fields":
+  {
+    "first_name": "Elie",
+    "last_name": "Wiesel",
+    "date_of_birth": "1928-09-30",
+    "date_of_death": "2016-07-02"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 97,
+  "fields":
+  {
+    "first_name": "James",
+    "last_name": "Joyce",
+    "date_of_birth": "1882-02-02",
+    "date_of_death": "1941-01-13"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 98,
+  "fields":
+  {
+    "first_name": "William",
+    "last_name": "Goldman",
+    "date_of_birth": "1931-08-12",
+    "date_of_death": "2018-11-16"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 99,
+  "fields":
+  {
+    "first_name": "S.E.",
+    "last_name": "Hinton",
+    "date_of_birth": "1948-07-22",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 100,
+  "fields":
+  {
+    "first_name": "James",
+    "last_name": "Dashner",
+    "date_of_birth": "1972-11-26",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 101,
+  "fields":
+  {
+    "first_name": "Steven D.",
+    "last_name": "Levitt",
+    "date_of_birth": "1967-05-29",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 102,
+  "fields":
+  {
+    "first_name": "Stephen J.",
+    "last_name": "Dubner",
+    "date_of_birth": "1963-08-26",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 103,
+  "fields":
+  {
+    "first_name": "Frances Hodgson",
+    "last_name": "Burnett",
+    "date_of_birth": "1849-11-24",
+    "date_of_death": "1924-10-29"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 104,
+  "fields":
+  {
+    "first_name": "Gabriel Garc\u00eda",
+    "last_name": "M\u00e1rquez",
+    "date_of_birth": "1927-03-06",
+    "date_of_death": "2014-04-17"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 105,
+  "fields":
+  {
+    "first_name": "Leo",
+    "last_name": "Tolstoy",
+    "date_of_birth": "1828-09-09",
+    "date_of_death": "1910-11-20"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 106,
+  "fields":
+  {
+    "first_name": "Oscar",
+    "last_name": "Wilde",
+    "date_of_birth": "1854-10-16",
+    "date_of_death": "1900-11-30"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 107,
+  "fields":
+  {
+    "first_name": "Jeffrey",
+    "last_name": "Eugenides",
+    "date_of_birth": "1960-03-08",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 108,
+  "fields":
+  {
+    "first_name": "Bram",
+    "last_name": "Stoker",
+    "date_of_birth": "1847-11-08",
+    "date_of_death": "1912-04-20"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 109,
+  "fields":
+  {
+    "first_name": "Nina",
+    "last_name": "Auerbach",
+    "date_of_birth": "1943-05-24",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 110,
+  "fields":
+  {
+    "first_name": "David J.",
+    "last_name": "Skal",
+    "date_of_birth": "1952-06-21",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 111,
+  "fields":
+  {
+    "first_name": "Truman",
+    "last_name": "Capote",
+    "date_of_birth": "1924-09-30",
+    "date_of_death": "1984-08-25"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 112,
+  "fields":
+  {
+    "first_name": "Arthur Conan",
+    "last_name": "Doyle",
+    "date_of_birth": "1859-05-22",
+    "date_of_death": "1930-07-07"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 113,
+  "fields":
+  {
+    "first_name": "Agatha",
+    "last_name": "Christie",
+    "date_of_birth": "1890-09-15",
+    "date_of_death": "1976-01-12"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 114,
+  "fields":
+  {
+    "first_name": "Vladimir",
+    "last_name": "Nabokov",
+    "date_of_birth": "1899-04-22",
+    "date_of_death": "1977-02-02"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 115,
+  "fields":
+  {
+    "first_name": "Virginia",
+    "last_name": "Woolf",
+    "date_of_birth": "1882-01-25",
+    "date_of_death": "1941-03-28"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 116,
+  "fields":
+  {
+    "first_name": "James",
+    "last_name": "Patterson",
+    "date_of_birth": "1947-03-22",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 117,
+  "fields":
+  {
+    "first_name": "Robert",
+    "last_name": "Ludlum",
+    "date_of_birth": "1927-05-25",
+    "date_of_death": "2001-03-12"
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 118,
+  "fields":
+  {
+    "first_name": "Frederick",
+    "last_name": "Forsyth",
+    "date_of_birth": "1938-08-25",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 119,
+  "fields":
+  {
+    "first_name": "John le",
+    "last_name": "Carr\u00e9",
+    "date_of_birth": "1931-10-19",
+    "date_of_death": null
+  }
+},
+{
+  "model": "catalog.author",
+  "pk": 120,
+  "fields":
+  {
+    "first_name": "Joseph",
+    "last_name": "Conrad",
+    "date_of_birth": "1857-12-03",
+    "date_of_death": "1924-08-03"
+  }
+}]
