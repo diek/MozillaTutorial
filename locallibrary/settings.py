@@ -87,7 +87,7 @@ DATABASES = {
     }
 }
 
-FIXTURE_DIRS = [join(BASE_DIR, 'catalog/fixtures')]
+#FIXTURE_DIRS = [join(BASE_DIR, 'catalog/fixtures')]
 
 LOGIN_REDIRECT_URL = '/'
 # Password validation

@@ -23,9 +23,9 @@
             Mozilla Django Tutorial
           </a>
           <span class="navbar-burger burger" data-target="navMenu">
-            <span><a href="#" class="navbar-item is-active">Home</a></span>
-            <span><a href="#" class="navbar-item">Login</a></span>
-            <span><a href="#" class="navbar-item">Log out</a></span>
+            <span><a href="#" class="navbar-item is-active">&nbsp&nbspHome</a></span>
+            <span><a href="#" class="navbar-item">&nbsp&nbspLogin</a></span>
+            <span><a href="#" class="navbar-item">&nbsp&nbspLog out</a></span>
           </span>
         </div>
         <div id="navMenu" class="navbar-menu">
@@ -42,15 +42,14 @@
     <div class="columns is-multiline is-mobile">
       <div class="column is-one-quarter">
         <ul>
-          <li><a href="{% url 'index' %}">Home</a></li>
-          <li><a href="{% url 'books' %}">All books</a></li>
-          <li><a href="{% url 'authors' %}">All authors</a></li>
+          <li><a href="{% url 'index' %}">&nbsp&nbspHome</a></li>
+          <li><a href="{% url 'books' %}">&nbsp&nbspAll books</a></li>
+          <li><a href="{% url 'authors' %}">&nbsp&nbspAll authors</a></li>
           {% if user.is_authenticated %}
-            <li>User: {{ user.get_username }}</li>
-            <li><a href="{% url 'my-borrowed' %}">My Borrowed</a></li>
-            <li><a href="{% url 'logout'%}?next={{request.path}}">Logout</a></li>
-          {% else %}
-            <li><a href="{% url 'login'%}?next={{request.path}}">Login</a></li>
+            <li>&nbsp&nbspUser : {{user.get_username }}</li>
+            <li><a href="{% url 'my-borrowed' %}">&nbsp&nbspMy Borrowed</a></li>
+            
+          
           {% endif %}
         </ul>
       </div>
